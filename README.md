@@ -60,3 +60,15 @@ CUDA_VISIBLE_DEVICES=0 python evaluate_model.py --algorithm GVRT --test-env 0 --
 We report averaged results across three independent runs.
 
 <img src="./docs/main_results.png" width="60%">
+
+
+## Citation
+If you find our work useful, please kindly cite this paper:
+```bib
+@article{min2022grounding,
+  author    = {Seonwoo Min and Nokyung Park and Siwon Kim and Seunghyun Park and Jinkyu Kim},
+  title     = {Grounding Visual Representations with Texts for Domain Generalization},
+  journal   = {Preprint},
+  year      = {2022},
+}
+```
