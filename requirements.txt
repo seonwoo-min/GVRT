@@ -1,0 +1,3 @@
+pycocotools==2.0.4
+matplotlib==3.4.3
+wilds==2.0.0
