@@ -1,5 +1,5 @@
 # Grounding Visual Representations with Texts (GVRT)
-[**Grounding Visual Representations with Texts for Domain Generalization**](https://github.com/mswzeus/GVRT) \
+[**Grounding Visual Representations with Texts for Domain Generalization**](https://arxiv.org/abs/2207.10285) \
 Seonwoo Min, Nokyung Park, Siwon Kim, Seunghyun Park, Jinkyu Kim \
 ECCV 2022 | Official Pytorch implementation
 
@@ -68,7 +68,9 @@ If you find our work useful, please kindly cite this paper:
 @article{min2022grounding,
   author    = {Seonwoo Min and Nokyung Park and Siwon Kim and Seunghyun Park and Jinkyu Kim},
   title     = {Grounding Visual Representations with Texts for Domain Generalization},
-  journal   = {Preprint},
+  journal   = {arXiv},
+  volume    = {abs/2207.10285},
   year      = {2022},
+  url       = {https://arxiv.org/abs/2207.10285}
 }
 ```
