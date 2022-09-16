@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 
 ## CUB-DG Benchmark Dataset
-We created CUB-DG to investivate the cross-modality supervision in the DG task (<a href="https://drive.google.com/file/d/1BU8Jy0a1mdNCbIpUUBrQPqQfNXGXfm1f/view?usp=sharing">Download Link</a>). \
+We created CUB-DG to investigate the cross-modality supervision in the DG task (<a href="https://drive.google.com/file/d/1BU8Jy0a1mdNCbIpUUBrQPqQfNXGXfm1f/view?usp=sharing">Download Link</a>). \
 CUB is an image dataset with photos of 200 bird species. For more information, please see the <a href="http://www.vision.caltech.edu/visipedia/CUB-200.html">original repo</a>. \
 We used pre-trained style transfer models to obtain images from three other domains, i.e. Art, Paint, and Cartoon.
 - Photo-to-Art: <a href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix">CycleGAN (Monet)</a>
