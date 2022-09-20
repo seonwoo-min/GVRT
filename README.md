@@ -3,7 +3,7 @@
 Seonwoo Min, Nokyung Park, Siwon Kim, Seunghyun Park, Jinkyu Kim \
 ECCV 2022 | Official Pytorch implementation
 
-***We advocate for leveraging the vision-and-language cross-modality for the domain generalization task.***
+***We advocate for leveraging the vision-and-language cross-modality supervision for the DG task.***
 - Two modules to ground visual representations with texts containing typical reasoning of humans.
 - ***Visual and Textual Joint Embedder*** aligns visual representations with the pivot sentence embedding.
 - ***Textual Explanation Generator*** generates explanations justifying the rationale behind its decision.
